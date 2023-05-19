@@ -1,4 +1,4 @@
-# ATMAE Student Division Robotics Competitio
+# ATMAE Robotics Competition
 Code for manual and autonomous navigation of robot.
 
 Our entry was awarded 2nd prize at the 2015 ATMAE Robotics Conference, Pittsburgh, PA.
